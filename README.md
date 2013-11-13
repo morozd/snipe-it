@@ -13,5 +13,5 @@ This isn't actually ready for anyone to use yet, as I'm still working out some o
 - assets belonging to asset models (example: Serial # 1234567890)
 - categories (example: laptops, desktops, monitors, etc)
 - basic depreciation reports (add purchase date, cost and invoice number to pull quick year-end reports on straight-line depreciation)
-- multiple location support (if a laptop started in NY and ended up in the SF office, you can see the progressoon and depreciate from there)
+- multiple location support (if a laptop started in NY and ended up in the SF office, you can see the progression and depreciate from there)
 - lookup by asset or by person (if you want to know who has a laptop with a specific serial, you can do that - or if you want to look up all assets belonging to one person, you can do that too)
