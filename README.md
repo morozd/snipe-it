@@ -6,7 +6,7 @@ It is built on [Laravel 4](http://laravel.com) and uses the [Sentry 2](https://g
 
 Many thanks to the [Laravel 4 starter site](https://github.com/brunogaspar/laravel4-starter-kit) for a quick start. 
 
-This isn't actually ready for anyone to use yet, as I'm still working out some of the basic functionality in the develop branch. You're welcome to fork it and submit pull requests if there;s something you'd like to see there. 
+This isn't actually ready for anyone to use yet, as I'm still working out some of the basic functionality in the develop branch. You're welcome to fork it and submit pull requests if there's something you'd like to see there. 
 
 ### Features Currently in Development
 - asset models (example: Macbook Pro 13-inch, late 2013)
